@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rimomog
-- 👀 I’m interested in ... web development
-- 🌱 I’m currently learning ... odin project
-- 💞️ I’m looking to collaborate on ... learning 
+- 👀 I am a full stack web developer
+- 🌱 I’m currently in the 100Devs cohort
 - 📫 How to reach me ... patrickrimomogitau482@gmail.com
 
 <!---
